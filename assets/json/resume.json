@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ryan Sutherland",
+    "label": "Ph.D Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Sutherry@oregonstate.edu",
+    "phone": "(863)-377-1825",
+    "url": "",
+    "summary": "A Canadian Robotics Student interested in Human Robot Interaction",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,7 +22,46 @@
       }
     ]
   },
-  "work": [
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C++",
+        "C",
+        "MATLAB",
+        "Java",
+        "Machine Learning Certificate"
+      ]
+    },
+    {
+      "name": "Electrical",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PCB Development",
+        "Soldering",
+        "Multimeter",
+        "Oscilliscope",
+        "Wave Form Generators"
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SolidWorks",
+        "Fusion360",
+        "Rapid Prototyping",
+        "Lathe",
+        "Milling Machine"
+      ]
+    }
+  ],
+  "Technical Experience": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -132,21 +171,6 @@
       "releaseDate": "1916-03-20",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [

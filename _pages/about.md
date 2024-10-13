@@ -18,3 +18,5 @@ social: true # includes social icons at the bottom of the page
 Hi everyone! My name is Ryan Sutherland and I am a PhD Student at Oregon State University in Corvallis, Oregon. My research interests are currently in the space of Human Robot Interaction and understanding how humans and robots can most effectively communicate with one another in shared spaces. 
 
 I am originally from Toronto, Canada where I grew up enjoying just about every sport including Baseball, Hockey, Squash and Soccer in addition to travelling and spending time with my dogs. Through my travels, I have been able to live in a number of places including Vancouver BC, Orlando FL, and Paris France!
+
+My educational background is a Bachelors in Engineering Physics which is a programming bringing together knowledge from Mechanical, Electrical and Computer Engineering alongside a heavy background in Mathematics and Physics. This gives me a diversified foundation that has allowed me to pursue my passion for Robotics.
