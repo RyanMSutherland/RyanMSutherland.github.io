@@ -15,11 +15,6 @@
       "region": "California"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "skills": [
@@ -61,7 +56,7 @@
       ]
     }
   ],
-  "Technical Experience": [
+  "technical_experience": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -98,7 +93,7 @@
     },
     {
       "institution": "University of British Columbia",
-      "location": "Vancouver, British Columbia",
+      "location": "Vancouver, BC",
       "url": "https://www.engphys.ubc.ca/",
       "area": "",
       "studyType": "B.Apsc, Engineering Physics",
