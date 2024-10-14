@@ -86,15 +86,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Oregon State University",
+      "location": "Corvallis, Oregon",
+      "url": "https://engineering.oregonstate.edu/CoRIS",
+      "area": "Human Robot Interaction",
+      "studyType": "Ph.D, Robotics",
+      "startDate": "2024-09",
+      "endDate": "Present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": []
+    },
+    {
+      "institution": "University of British Columbia",
+      "location": "Vancouver, British Columbia",
+      "url": "https://www.engphys.ubc.ca/",
+      "area": "",
+      "studyType": "B.Apsc, Engineering Physics",
+      "startDate": "2019-09",
+      "endDate": "2024-05",
+      "score": "10",
+      "courses": ["Cumalative Average - 82.9%", "Graduated with Distinction in Co-Operative Education Program", "Dean's Honour's List"]
     }
   ],
   "awards": [
