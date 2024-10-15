@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A collection of some of the projects I have worked on in Robotics and otherwise.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
