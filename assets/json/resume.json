@@ -56,15 +56,32 @@
       ]
     }
   ],
-  "technical_experience": [
+  "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "company": "ConeTec",
+      "position": "Mechanical Engineering Intern",
+      "website": "https://www.conetec.com/",
+      "location": "Burnaby, BC",
+      "startDate": "2021-01",
+      "endDate": "2021-01",
+      "highlights": [
+        "Created precise SolidWorks drawings for use by machinists",
+        "Designed custom PCB for accurately controlling motor outputs"
+      ]
+    },
+    {
+      "company": "TRAIN Fitness",
+      "position": "Machine Learning/Full Stack Intern",
+      "website": "https://www.trainfitness.ai/",
+      "location": "Toronto, ON",
+      "startDate": "2022-05",
+      "endDate": "2022-12",
+      "highlights": [
+        "Created an automated labeling system using computer vision techniques to increase data available for model training.",
+        "Developed AI that could identify wrong form exercises with 98% accuracy.",
+        "Interacted and parsed through large data files to extract vital information and pinpoint potential flaws in our database.",
+        "Developed position estimation algorithm to identify users movement through space given sensors available on the watch."
+      ]
     }
   ],
   "volunteer": [
