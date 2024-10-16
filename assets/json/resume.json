@@ -218,15 +218,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Baseball",
+        "Hockey",
+        "Squash",
+        "Badminton",
+        "Soccer"
       ]
     }
   ]  
