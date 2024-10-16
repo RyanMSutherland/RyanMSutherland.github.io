@@ -58,12 +58,96 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Fuel Cell Defect Detection - Capstone",
+      "highlights": [
+      "Responsible for creating an automated, AI powered system capable of classifying various defects found on fuel cells.", 
+      "Developed a structure to introduce controlled lighting and surface conditions.",
+      "Utilized and implemented existing YOLO framework to classify and identify regions of defects."
+      ],
+      "startDate": "2022-09",
+      "endDate": "2023-04",
+      "url": ""
+    },
+    {
+      "name": "UBC Biomedical Engineering Student Team (Co-Captain Projects)",
+      "highlights": [
+      "Responsible for helping teams develop timelines and aid in project management.", 
+      "Communicating with faculty about reserving proper meeting and prototyping space.",
+      "Developed various pipelines to streamline processes including: on-boarding, training and project proposals."
+      ],
+      "startDate": "2022-09",
+      "endDate": "2023-08",
+      "url": ""
+    },
+    {
+      "name": "UBC Biomedical Engineering Student Team (SportsMed)",
+      "highlights": [
+      "Founded SportsMed team to reimagine ways of treating and preventing common sports injuries.", 
+      "Developing a core-activation device that informs users of ways to improve their posture and strength abdominal muscles.",
+      "Delegated research topics to team members and ensured constant communication between individuals."
+      ],
+      "startDate": "2021-09",
+      "endDate": "2023-08",
+      "url": ""
+    },
+    {
+      "name": "Can Collection Robot",
+      "highlights": [
+      "Designed robot using CAD, ensuring all components could effectively be integrated using assemblies.", 
+      "Created custom PCBs for effective power distribution and signal management.",
+      "Created a state-machine that allowed all components of the robot to work together synchronously with precise timing for specific tasks.",
+      "Placed 3rd in competition."
+      ],
+      "startDate": "2021-05",
+      "endDate": "2021-09",
+      "url": ""
+    },
+    {
+      "name": "Plate Recognition Robot",
+      "highlights": [
+      "Developed code for a robot in gazebo to drive a course and recognize car plates while avoiding obstacles.", 
+      "Used a PID loop to effectively control sharp turns with minimal shaking afterwards.",
+      "Created a pedestrian/car avoidance system using image subtraction to identify movement.",
+      "Trained two neural networks using TensorFlow to identify letters and numbers."
+      ],
+      "startDate": "2021-09",
+      "endDate": "2021-12",
+      "url": ""
+    },
+    {
+      "name": "UBC Biomedical Engineering Student Team (MINT)",
+      "highlights": [
+      "Developed an electrode headset to read brain waves to enable individuals to perform day to day tasks through thought.", 
+      "Designed a mechanical headset that was adaptable to all head sizes and integrable with headset electronics.",
+      "Prototyped headset using SolidWorks and rapid prototyping techniques.",
+      "Tested parts by ensuring that they fit on various head sizes and parts functioned cohesively with electrical aspects."
+      ],
+      "startDate": "2019-09",
+      "endDate": "2021-05",
+      "url": ""
+    },
+    {
+      "name": "Autonomous Soccer Playing Robots",
+      "highlights": [
+      "Designed and prototyped all aspects of the robot using Arduino coding and CAD.", 
+      "Determined proper motherboard and motor shield need to function with components.",
+      "Fully soldered a breadboard ensuring proper power distribution to several components simultaneously.",
+      "Ensured effective integration of numerous components into a functioning and coherent system while limiting brownouts.",
+      "Represented Canada in WorldCup Junior, placing within the top 30% of all teams."
+      ],
+      "startDate": "2016-09",
+      "endDate": "2018-06",
+      "url": ""
+    },
+    {
+      "name": "FPGA Machine Learning Application for LHC - Capstone",
+      "highlights": [
+      "Developed a pipeline for Large Hadron Collider experiments that would allow ATLAS to disregard 'un-interesting' interactions, saving computer storage .", 
+      "Prototyped models on an FPGA and analyzed metrics to ensure speed constraints and precision were retained."
+      ],
+      "startDate": "2023-09",
+      "endDate": "2024-04",
+      "url": ""
     }
   ],
   "work": [
