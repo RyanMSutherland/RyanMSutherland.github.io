@@ -15,7 +15,7 @@ In order to make these measurements, there are two primary detectors that live o
 To begin, let us first understand how the ATLAS detector functions.
 
 <div class="row">
-    <div class="col-sm mt-0 mt-md-0">
+    <div class="col-sm-2 mt-0 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ATLAS_cross_section.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -79,10 +79,10 @@ In our pipeline, Vivado was provided by the sponsor in the designated FPGA conta
 To verify our pipeline, the HLS conversion was tested in the form of a timing and latency report. This report was generated from the Vivado build and shows timing and latency estimates for the GNN that was simulated. The Vivado HLS report indicates that the target clock frequency (clock period) was set to 5 nanoseconds (ns). After synthesis, the estimated clock period was 4.221 ns, which represents the actual clock period that the design is expected to achieve based on the logic synthesis process. Uncertainty represents the variation or margin of error associated with the estimated clock period. It indicates the range within which the actual clock period might fall. In this case, the uncertainty is reported as 0.62 ns, meaning that the actual clock period might vary by up to 0.62 ns from the estimated value. The minimum and maximum latencies were found to be 61 and 23675 cycles respectively. This can also be represented in time with 0.305 us and 0.118 ms. Note that no specific pipeline type was specific for this simulation but populating this could lead to better latency results. A table containing these results can be seen in Figure 13.
 
 <div class="row">
-    <div class="col-sm mt-0 mt-md-0">
+    <div class="col-sm-4 mt-0 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/performance.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-0 mt-md-0">
+    <div class="col-sm-8 mt-0 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/allocation.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
