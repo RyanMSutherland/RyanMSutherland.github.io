@@ -15,7 +15,7 @@ In order to make these measurements, there are two primary detectors that live o
 To begin, let us first understand how the ATLAS detector functions.
 
 <div class="row">
-    <div class="col-sm mt-0 mt-md-0">
+    <div class="col-sm-6 mt-0 mt-md-0 align-self-center">
         {% include figure.liquid loading="eager" path="assets/img/ATLAS_cross_section.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
