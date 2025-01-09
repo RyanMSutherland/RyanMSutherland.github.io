@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - RyanMSutherland/ROB_514_Project
+  - RyanMSutherland/RobotSystems
   # - alshedivat/al-folio
   # - jekyll/jekyll
   # - twbs/bootstrap
